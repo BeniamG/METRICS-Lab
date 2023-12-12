@@ -31,7 +31,7 @@ education:
   courses:
     - course: B.A. 
       institution: Mount Holyoke College
-      year: 2026
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

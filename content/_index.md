@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        METRICS Lab at
-        Mount Holyoke College
+        METRICS Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **METRICS Lab** at Mount Holyoke has been supporting team based research at the intersection of Sociology and Data Science since 2022.
+        The **METRICS Lab** at Mount Holyoke College has been supporting team based research at the intersection of Sociology and Data Science since 2022.
   
   - block: collection
     content:
