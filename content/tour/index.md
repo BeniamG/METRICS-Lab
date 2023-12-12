@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the METRICS Lab
-        content: We are a Mixed Expertise Team
+        content: We do Mixed Expertise Textual Research in Cultural Sociology.  
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: We meet weekly ☕️
-        content: 'To share your knowledge with the group and pursue common research topics together!'
+        content: 'To share your knowledge with the group and pursue common research topics together.'
         align: left
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'
       - title: What are we working on?
-        content: Our main project uses computaional and human reading of annual addresses made by presidents of six social science associations to analzye the evolution of social science concepts since 1900. 
+        content: Our main project uses computational and human reading of annual addresses made by presidents of six social science associations to analzye the evolution of social science concepts since 1900. 
         align: right
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#333'
       - title: Who are we speaking to?
-        content: In addition to schoarly presentations and publications, the lab works to share our insights about the process of research with a broader audience using multiple media channels. 
+        content: In addition to scholarly presentations and publications, the lab works to share our insights about the process of research with a broader audience using multiple media channels. 
         align: center
         background:
           image:

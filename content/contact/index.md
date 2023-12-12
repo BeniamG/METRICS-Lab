@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        If you'd like more information about our work let us know via the form below. 
+        If you'd like more information about our work, let us know via the form below. 
       email: bgebreme@mtholyoke.edu
       phone: 413-538-2283
       address:

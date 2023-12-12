@@ -64,6 +64,6 @@ user_groups:
   - Researchers
 ---
 
-Eleanor Townsley is a sociologist who teaches courses in the cultural sociology, social theory, sociology of gender, survey research and data analysis, and an archival and field methods class based in the Mount Holyoke College Archives. She says especially enjoys teaching the introductory course in sociology.
+Eleanor Townsley is a sociologist who teaches courses in the cultural sociology, social theory, sociology of gender, survey research and data analysis, and an archival and field methods class based in the Mount Holyoke College Archives. She says she especially enjoys teaching the introductory course in sociology.
 
 Townsley’s research examines the possibilities of intellectual life in contemporary societies, with a focus on the institutional contexts and political consequences of intellectual practices. She is particularly interested trope theory and has analyzed tropes surrounding the “1960s,” “public intellectuals,” and “interdisciplinary.” Townsley’s early work focused on social science professionalization in the United States during the 1960s and the role of the intelligentsia in transitions from socialism in Central Europe. Still interested in the role of intellectuals and ideas in social change, she is currently examining the nature and influence of media intellectuals in the contemporary United States.
