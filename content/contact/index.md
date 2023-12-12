@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '42.25578318263449'
+        longitude: '-72.57413383254709'
       directions: The sociology department is located on the first floor of Porter Hall.
       office_hours:
         - 'Monday TBD'
