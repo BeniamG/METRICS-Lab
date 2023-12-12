@@ -24,7 +24,6 @@ sections:
         longitude: '-72.57413383254709'
       directions: The sociology department is located on the first floor of Porter Hall.
       office_hours:
-        - 'Monday TBD'
         - 'Wednesday TBD'
       appointment_url: 'https://mountholyoke.starfishsolutions.com/starfish-ops/dl/instructor/serviceCatalog.html?bookmark=connection/968374/schedule'
       #contact_links:
@@ -45,7 +44,7 @@ sections:
 #          # Enable CAPTCHA challenge to reduce spam?
 #          captcha: false
     design:
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
