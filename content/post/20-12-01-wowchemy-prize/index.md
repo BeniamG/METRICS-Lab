@@ -1,14 +1,12 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: The METRICS Lab at the International Sociological Association World Congress in Melbourne, Australia
+date: 2023-06-28
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Townsley and Gebre-Medhin present work from the Disciplinary Address Project in Australia. 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Professor's Townsley and Gebre-Medhin had a chance to present a preliminary sketch of the first major METRICS Lab project at the ISA in Melbourne, Australia in June 2023. Their talk, titled [_Speaking for Sociology (and the social sciences): Computational Text Analysis of a Century of Presidential Addresses to the Disciplines_](https://isaconf.confex.com/isaconf/wc2023/meetingapp.cgi/Paper/146274), fit well into a pannel titled _Theories and Methods in Undertaking Histories of Sociology_ which was chaired by Marcel Fournier and Natalia Maystorovich Chulio.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Their presentation reviewed the challenges and opportunities for combining computational and human coding on creatively selected bespoke historical datasets. The Presidential Addresses to the Social Sciences corpus was presented as a exemplary case of the role of *medium data* in advancing the objectives social scientific inquiry by exploring the boundries between human and machine coding of text docuemnts.  
