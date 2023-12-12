@@ -6,10 +6,10 @@ This repo hosts code for the **METRICS LAB** website.
 
 ## Template
 
-This website uses an open source template. Here is some more information:
+This website uses an open source template:
 
-- [Hugo Research Group GitHub repo](https://github.com/wowchemy/starter-hugo-research-group)
-- [Hugo Reseearch Group Template Website](https://hugoblox.com/templates/details/research-group/)
+- [Hugo Research Group Template on GitHub repo](https://github.com/wowchemy/starter-hugo-research-group)
+- [Hugo Reseearch Group Template on HugoBlox](https://hugoblox.com/templates/details/research-group/)
 - [Hugo Reseearch Group Template Demo Site](https://research-group.netlify.app)
 
 ## Technologies and Installation
@@ -26,4 +26,4 @@ METRICS members may use the GitHub web interface to create new content and edit 
 
 ## Photo credits
 
-A big **think you** to Mykelle Walton for taking the amazing original images of the lab included on the site.
+A big **thank you** to Mykelle Walton for taking the amazing original images of the lab included on the site.
