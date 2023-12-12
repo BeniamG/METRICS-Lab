@@ -1,5 +1,5 @@
 ---
-title: CISA Seminar Workshop features the Disciplinary Address Project
+title: CISA Seminar features the Disciplinary Address Project
 date: 2022-12-02
 # image:
 # focal_point: 'top'
