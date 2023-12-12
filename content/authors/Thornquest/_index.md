@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Katherine Delamere
+title: Jen Thornquest
 
 # Full name (for SEO)
-first_name: Katherine
-last_name: Delamere
+first_name: Jen
+last_name: Thornquest
 
 # Username (this should match the folder name)
 authors:
-  - Delamere
+  - JiaThornquestng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sociology Team Member '05
+role: Sociology Team Member '04
 
 # Organizations/Affiliations
 organizations:
@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-Katherine Delamere is a Sociology and Spanish double major in the Class of 2025. She is most interested in how language exchange, restorative/transformative justice, and computer science can intersect to provide opportunities for community connection and social equity. She is Vice President of MHC’s Circle K International Club, focusing on community engagement, service and connection, and is a dedicated member of MHC’s Planned Parenthood: Generation Action Club. Katherine hopes to continue pursuing the intersections of data science and social justice, as she believes that by focusing on points of connection through effective and creative communication, community healing can grow. Fun fact: Katherine is a professional cheesemonger.
+Jen Thornquest, a proud Frances Perkins (FP) Scholar, uses her sociology major and nexus emphasis in journalism, media, and public discourse to investigate issues related to human migration, refugee advocacy, and higher education in preparation for her future positions in public service. In addition to her coursework, she is a DJ and the Specialty Show Director for the college public radio station, WMHC, and FP class senator. She looks forward to pursuing her Master's Degree in International Relations and Development beginning fall 2024 at the Geneva Institute in Switzerland. Fun fact: Jen teaches circus skills to children to keep her life full of joy and the unexpected! 

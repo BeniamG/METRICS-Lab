@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Katherine Delamere
+title: Bryn Healy
 
 # Full name (for SEO)
-first_name: Katherine
-last_name: Delamere
+first_name: Bryn
+last_name: Healy
 
 # Username (this should match the folder name)
 authors:
-  - Delamere
+  - Healy
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sociology Team Member '05
+role: Sociology Team Member '04
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: B.A. 
       institution: Mount Holyoke College
-      year: 2025
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-Katherine Delamere is a Sociology and Spanish double major in the Class of 2025. She is most interested in how language exchange, restorative/transformative justice, and computer science can intersect to provide opportunities for community connection and social equity. She is Vice President of MHC’s Circle K International Club, focusing on community engagement, service and connection, and is a dedicated member of MHC’s Planned Parenthood: Generation Action Club. Katherine hopes to continue pursuing the intersections of data science and social justice, as she believes that by focusing on points of connection through effective and creative communication, community healing can grow. Fun fact: Katherine is a professional cheesemonger.
+Healy is a sociology and politics double major in the Class of 2024. She also has a nexus in Law, Public Policy, and Human Rights. Healy worked in the Sociology and Anthropology Department during the 2022-2023 school year. She was the Promotions Director for The Mount Holyoke Review and the Mount Holyoke Jazz Ensembles for her junior year along with being a co-News Editor for The Mount Holyoke News. She has a passion for disability justice and is a member of the Speaker’s Bureau of the Asperger / Autism Network.
