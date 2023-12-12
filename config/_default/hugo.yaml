@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: METRICS Lab at Mount Holyoke College # Website name
+title: METRICS Lab @ MHC # Website name
 baseURL: 'https://example.com' # Website URL
 # baseURL: 'https://gebre-medhin.com/metrics-lab/' # Website URL to use as backup
 

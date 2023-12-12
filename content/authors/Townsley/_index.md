@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research interests.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theory
+  - Culture
+  - Organizations
 
 education:
   courses:
@@ -62,7 +62,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Eleanor Townsley is a sociologist who teaches courses in the cultural sociology, social theory, sociology of gender, survey research and data analysis, and an archival and field methods class based in the Mount Holyoke College Archives. She says especially enjoys teaching the introductory course in sociology.
