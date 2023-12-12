@@ -2,7 +2,7 @@
 title: CISA Seminar features the Disciplinary Address Project
 date: 2022-12-02
 # image:
-# focal_point: 'top'
+# focal_point: 'TopLeft'
 ---
 
 Ben Gebre-Medhin presented a preliminary research proposal for the Disciplinary Address Project at the CISA Fellows Seminar.
