@@ -33,13 +33,13 @@ education:
   courses:
     - course: Ph.D. 
       institution: University of California, Los Angeles
-      year: 2012
+      #year: 2012
     - course: M.A. 
       institution: University of California, Los Angeles
-      year: 2009
+      #year: 2009
     - course: B.A.
       institution: University of Queensland, Australia
-      year: 2008
+      #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Eleanor Townsley is a sociologist who teaches courses in the cultural sociology, social theory, sociology of gender, survey research and data analysis, and an archival and field methods class based in the Mount Holyoke College Archives. She says she especially enjoys teaching the introductory course in sociology.
