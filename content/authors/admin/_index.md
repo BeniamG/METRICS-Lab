@@ -46,8 +46,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bgebreme@mtholyoke.edu'
-  - icon: link-solid
-    icon_pack: link
+  - icon: link
+    icon_pack: fas
     link: https://gebre-medhin.com
   - icon: github
     icon_pack: fab
