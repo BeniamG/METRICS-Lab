@@ -9,9 +9,8 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
+  color: teal
   font_size: L
-  # added the next line
-  color: red
 
 # SEO
 
