@@ -1,4 +1,7 @@
 ---
+# Changed this to draft status. Can be used as a temple in the future. 
+draft: true
+
 title: "An example preprint / working paper"
 authors:
 - admin
