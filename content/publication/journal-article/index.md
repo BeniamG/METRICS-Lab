@@ -1,4 +1,7 @@
 ---
+# This is a template for furute journal articles. 
+draft: true
+
 title: "An example journal article"
 authors:
 - admin
