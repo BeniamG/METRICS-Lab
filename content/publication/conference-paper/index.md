@@ -1,4 +1,7 @@
 ---
+# This is a template for a future conference paper
+draft: true
+
 title: 'An example conference paper'
 
 # Authors
